@@ -1,0 +1,12 @@
+{
+  "name": "ultimamesa",
+  "displayName": "ultimamesa",
+  "expo": {
+    "name": "ultimamesa",
+    "slug": "ultimamesa",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
